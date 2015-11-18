@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Ash Guy]]></title>
         <description><![CDATA[Ash Guy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ashguy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 20:55:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 20:56:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ashguy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>Yarr.</p></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/ashguy/test/index.html</link>
             <guid isPermaLink="false">bbbbc12c-26b8-44f0-907c-8d369bc03ba8</guid>
             <pubDate>Wed, 18 Nov 2015 20:55:46 GMT</pubDate>
         </item>
