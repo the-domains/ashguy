@@ -1,7 +1,7 @@
 name: ashguy
 favicon: null
 layout_spectrum: 0.91068
-typography_spectrum: 0.3491679858416319
+typography_spectrum: 0.9211
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#030305'
+    - '#fdfdfd'
+    - '#8bbbfc'
+    - '#8d624b'
+    - '#5218a6'
   brandStrength: 0.531624608207494
   lightness: 0.9839393647853285
   saturation: 0.029964508255943656
