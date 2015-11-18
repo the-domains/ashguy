@@ -1,0 +1,23 @@
+name: ashguy
+favicon: null
+layout_spectrum: 0.2966456227004528
+typography_spectrum: 0.3491679858416319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.531624608207494
+  lightness: 0.9839393647853285
+  saturation: 0.029964508255943656
+  rhythmicContrast: 0.9782486550975591
+purpose: []
